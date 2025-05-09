@@ -19,6 +19,12 @@ This is a basic QA automation project that tests the login functionality of a de
    ```bash
    pytest
    ```
+3.1 **If running pystest doesnt work**
+   If pytest doesnt work
+   run
+   ```bash
+   python -m pytest tests/
+   ```
 
 ## 📁 Project Structure
 
