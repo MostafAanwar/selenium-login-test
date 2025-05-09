@@ -47,6 +47,3 @@ Tests use [https://the-internet.herokuapp.com/login](https://the-internet.heroku
 - Selenium
 - Pytest
 
----
-
-Happy Testing! 🧪
